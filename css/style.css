@@ -63,13 +63,13 @@ section{
     position: relative;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     section{
         height: 60vh;
     }
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     section{
         background-image: url(../images/mobile/image-header.jpg);
     }
@@ -219,7 +219,7 @@ section .arrow{
     height: 70px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     section .arrow{
         margin-top: 40px;
         height: 90px;
@@ -240,7 +240,7 @@ section .arrow{
     height: 520px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .gallary .box{
         width: 100%;
     }
@@ -267,7 +267,7 @@ section .arrow{
     background-position: center;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .gallary .box.one{
         order: 2;
     }
@@ -313,14 +313,14 @@ section .arrow{
 }
 
 
-@media (max-width:418px){
+@media (max-width:416px){
     .gallary :is(.box.one, .box.four) {
         padding: 70px 30px 80px;
         height: 460px;
     }
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
    .gallary :is(.box.one, .box.four) .info{
     text-align: center;
    }
@@ -335,7 +335,7 @@ section .arrow{
     font-size: 36px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .gallary :is(.box.one, .box.four) .info h2{
      font-size: 34px;
     }
@@ -350,7 +350,7 @@ section .arrow{
     margin-bottom: 30px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .gallary .box .info p{
      font-size: 17px;
      margin-bottom: 35px;
@@ -422,7 +422,7 @@ section .arrow{
     }
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .gallary :is(.box.five, .box.six) .text{
         margin-top: 88%;
         width: 90%;
@@ -450,7 +450,7 @@ section .arrow{
     margin-top: 25px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .gallary :is(.box.five, .box.six) .text p{
       margin-top: 20px;
     }
@@ -473,7 +473,7 @@ section .arrow{
     padding-bottom: 100px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .testimonials {
         padding-top: 80px;
         padding-bottom: 80px;
@@ -493,7 +493,7 @@ section .arrow{
     margin-bottom: 70px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .testimonials .heading{
         font-size: 19px;
     }
@@ -510,7 +510,7 @@ section .arrow{
      row-gap: 50px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .testimonials .container{
         padding-left: 20px;
         padding-right: 20px;
@@ -531,7 +531,7 @@ section .arrow{
     margin-bottom: 50px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .testimonials .box .image{
         margin-bottom: 25px;
     }
@@ -545,7 +545,7 @@ section .arrow{
     margin-bottom: 60px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .testimonials .box .description-text{
         font-size: 16px;
         margin-bottom: 25px;
@@ -561,7 +561,7 @@ section .arrow{
     margin-bottom: 15px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .testimonials .box .info .name{
         margin-bottom: 10px;
         font-size: 18px;
@@ -584,7 +584,7 @@ section .arrow{
     flex-wrap: wrap;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .pictures .pic.des{
         display: none;
     }    
@@ -599,7 +599,7 @@ section .arrow{
     display: none;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     .pictures .pic.mobile{
         display: inline;
         width: calc(100% / 2);
@@ -616,7 +616,7 @@ footer{
     padding-bottom: 70px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     footer{
         padding-top: 50px;
         padding-bottom: 50px;
@@ -634,7 +634,7 @@ footer .heading-logo{
     margin-bottom: 40px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     footer .heading-logo{
         margin-bottom: 50px;
     }
@@ -645,7 +645,7 @@ footer .menu{
     margin-bottom: 80px;
 }
 
-@media (max-width:418px) {
+@media (max-width:416px) {
     footer .menu{
         display: flex;
         margin-bottom: 65px;
@@ -662,7 +662,7 @@ footer .menu li{
     cursor: pointer;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     footer .menu li{
         font-size: 17px;
         margin: 0 15px;
@@ -673,7 +673,7 @@ footer .social-media a{
     margin: 0 25px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     footer .social-media a{
         margin: 0 13px;
     }
@@ -683,7 +683,7 @@ footer .social-media .media{
     height: 24px;
 }
 
-@media (max-width:418px){
+@media (max-width:416px){
     footer .social-media a .media{
        height: 21px;
     }
